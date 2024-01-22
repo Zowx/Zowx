@@ -1,4 +1,4 @@
-### Bienvenue sur mon profil GitHub ! 👋
+# Bienvenue sur mon profil GitHub ! 👋
 
 ## À propos de moi 
 Je suis étudiant en Bachelor développeur WEB à l'ICSSA, passionné par les projets WEB je suis toujours à la recherche de nouveaux défis.
