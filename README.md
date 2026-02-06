@@ -5,9 +5,13 @@ Je concois et developpe des applications web completes — du backend API a l'in
 ## Stack principale
 
 **Backend** — NestJS, Express, Prisma, PostgreSQL, Redis
+
 **Frontend** — Next.js, React, React Native, Tailwind CSS
+
 **Cloud** — AWS (ECS, RDS, S3, CloudFront, Terraform), Azure (App Service, Functions, Bicep)
+
 **DevOps** — Docker, GitHub Actions, Vercel, Railway
+
 **Autre** — Rust, Python
 
 ## Projets
