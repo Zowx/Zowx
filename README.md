@@ -1,6 +1,6 @@
-Developpeur Full Stack & Cloud independant, specialise TypeScript.
+Développeur Full Stack & Cloud indépendant, spécialisé TypeScript.
 
-Je concois et developpe des applications web completes — du backend API a l'infrastructure cloud — pour des clients qui ont besoin de solutions robustes et bien architecturees.
+Je conçois et développe des applications web complètes — du backend API à l'infrastructure cloud — pour des clients qui ont besoin de solutions robustes et bien architecturées.
 
 ## Stack principale
 
@@ -17,12 +17,12 @@ Je concois et developpe des applications web completes — du backend API a l'in
 ## Projets
 
 - **BasketBoard** — SaaS de gestion de clubs de basketball (NestJS + Next.js + PostgreSQL)
-- **Cloud Azure** — Application 3-tiers deployee sur Azure avec IaC Bicep ([repo](https://github.com/Zowx/deploiement-appweb-azure))
+- **Cloud Azure** — Application 3-tiers déployée sur Azure avec IaC Bicep ([repo](https://github.com/Zowx/deploiement-appweb-azure))
 - **PlayerTracker** — App cross-platform (Web + Mobile) de suivi sportif (Turborepo + NestJS + Expo)
 
 ## Formation
 
-Master Expert en Developpement Web — YNOV Campus
+Master Expert en Développement Web — YNOV Campus
 
 ## Contact
 
