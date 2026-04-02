@@ -1,6 +1,6 @@
 Développeur Full Stack & Cloud indépendant, spécialisé TypeScript.
 
-Je conçois et développe des applications web complètes — du backend API à l'infrastructure cloud — pour des clients qui ont besoin de solutions robustes et bien architecturées.
+Je conçois et développe des applications web complètes, du backend API à l'infrastructure cloud.
 
 ## Stack principale
 
@@ -26,5 +26,4 @@ Master Expert en Développement Web — YNOV Campus
 
 ## Contact
 
-[![Malt](https://img.shields.io/badge/Malt-FC5757?style=flat&logo=malt&logoColor=white)](https://www.malt.fr/profile/enzomorin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-morin/)
