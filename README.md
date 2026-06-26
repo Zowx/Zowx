@@ -22,7 +22,7 @@ Je conçois et développe des applications web complètes, du backend API à l'i
 
 ## Formation
 
-Master Expert en Développement Web — YNOV Campus
+Master Expert en Développement Web - YNOV Campus
 
 ## Contact
 
